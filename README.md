@@ -1,8 +1,6 @@
-<h3><img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f1e7-1f1f7.png" width="20" height="20" />&nbsp;Ol&aacute;, meu nome &eacute; Pedro Macena. Sou apaixonado por tecnologia, lifelong learning e pela oportunidade de transformar a vida das pessoas por meio da programa&ccedil;&atilde;o. ✌️
-</br>
-</br>
-<img src="https://em-content.zobj.net/source/facebook/230/flag-for-us-outlying-islands_1f1fa-1f1f2.png" width="20" height="20" />&nbsp;Hi! My name is Pedro Macena. I'm passionate about technology, lifelong learning and the opportunity to transform people's lives through programming. ✌️</h2>
+#### 🇧🇷 Olá, meu nome é Pedro Macena. Sou apaixonado por tecnologia, lifelong learning e pela oportunidade de transformar a vida das pessoas por meio da programação ✌️
 
+#### 🇺🇸 Hi! My name is Pedro Macena. I'm passionate about technology, lifelong learning and the opportunity to transform people's lives through programming ✌️
 ----
 ## Public Portfolio💻
 
