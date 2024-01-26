@@ -2,7 +2,7 @@
 
 #### 🇺🇸 Hi! My name is Pedro Macena. I'm passionate about technology, lifelong learning and the opportunity to transform people's lives through programming ✌️
 ----
-## Public Portfolio💻
+## Public Portfolio 📚
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohmacena/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/pedrohenriquemacena/credit-eda-and-analysis-with-sql-and-power-bi/notebook)
