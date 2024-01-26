@@ -9,8 +9,6 @@
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZDcyMTZmNmUtMGRmYi00ODhhLWE1OGUtNGVjYzM5NjBkNGQ0IiwidCI6ImI1OTFhZTU0LTMzYzItNDU4OS1iZTY2LTkwMjFhNDE5NmM3YyJ9&pageName=ReportSection)
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://phmacena.substack.com/)
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=phmacena&show_icons=true&theme=dracula)
-
 ## Technologies I use on a daily basis 💻
 
 <div style="display: inline_block"><br/>
