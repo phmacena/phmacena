@@ -1,6 +1,3 @@
-#### 🇧🇷 Olá, meu nome é Pedro Macena. Sou apaixonado por tecnologia, lifelong learning e pela oportunidade de transformar a vida das pessoas por meio da programação ✌️
-
-#### 🇺🇸 Hi! My name is Pedro Macena. I'm passionate about technology, lifelong learning and the opportunity to transform people's lives through programming ✌️
 ----
 ## Public Portfolio 📚
 
