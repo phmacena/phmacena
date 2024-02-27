@@ -1,6 +1,5 @@
 ----
 ### Hi there! 👋 
-### I'm passionate about technology, lifelong learning and the opportunity to transform people's lives through programming ✌️
 
 ## Check out these projects 🔎
 
